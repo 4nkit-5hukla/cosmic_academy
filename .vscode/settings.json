@@ -1,0 +1,5 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.words": ["ARGB", "autofocus", "autoplay", "filteredusers", "fullscreen", "Getx", "gridviewitems", "listviewitems", "LTRB", "meedu", "noto", "Reorderable", "RGBO"],
+  "cmake.sourceDirectory": "${workspaceFolder}/windows/runner"
+}
